@@ -14,7 +14,6 @@ namespace _3DPoints
          
            double distance = Math.Sqrt(Math.Pow((poit1.x - Point2.x),2)  + Math.Pow((poit1.y - Point2.y),2) + Math.Pow((poit1.z - Point2.z),2));
            //double distance = Math.Sqrt(5.7);
-           
            return Math.Round(distance,3);
        }
 
