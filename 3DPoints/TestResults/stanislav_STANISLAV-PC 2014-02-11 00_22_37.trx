@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="10fad024-7352-4bd3-9917-b0ab28d5d842" name="stanislav@STANISLAV-PC 2014-02-11 00:22:37" runUser="stanislav-PC\stanislav" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="788aed3f-e710-4dd8-a548-4fb74a9d647e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="stanislav_STANISLAV-PC 2014-02-11 00_22_37">
+      <DeploymentItem filename="C:\Users\stanislav\documents\visual studio 2010\Projects\3DPoints\3DPoints\bin\Debug\3DPoints.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-02-11T00:22:37.9193625+02:00" queuing="2014-02-11T00:22:40.0674854+02:00" start="2014-02-11T00:22:40.2064934+02:00" finish="2014-02-11T00:22:43.8657026+02:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="8" executed="3" passed="2" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="5" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="STANISLAV-PC" outcome="Error" timestamp="2014-02-11T00:22:43.8637025+02:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="addelementTest" storage="c:\users\stanislav\documents\visual studio 2010\projects\3dpoints\test3dpoint\bin\debug\test3dpoint.dll" id="9464c1d5-bbb5-bb31-101f-488f49885b37">
+      <Execution id="6a02bcd0-0874-476a-ac5a-2643bdf2cba0" />
+      <TestMethod codeBase="C:/Users/stanislav/documents/visual studio 2010/Projects/3DPoints/Test3DPoint/bin/Debug/Test3DPoint.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test3DPoint.GenericListTest, Test3DPoint, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="addelementTest" />
+    </UnitTest>
+    <UnitTest name="MinTest" storage="c:\users\stanislav\documents\visual studio 2010\projects\3dpoints\test3dpoint\bin\debug\test3dpoint.dll" id="1cc18a0e-b8a5-fb71-2dcb-8df8aca7589b">
+      <Execution id="8f2072b3-b925-4cc5-8a4e-164105193a3b" />
+      <TestMethod codeBase="C:/Users/stanislav/documents/visual studio 2010/Projects/3DPoints/Test3DPoint/bin/Debug/Test3DPoint.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test3DPoint.GenericListTest, Test3DPoint, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MinTest" />
+    </UnitTest>
+    <UnitTest name="ResizeDataTest" storage="c:\users\stanislav\documents\visual studio 2010\projects\3dpoints\test3dpoint\bin\debug\test3dpoint.dll" id="21ca8b4c-2ec4-2411-ac35-fe360abb293e">
+      <DeploymentItems>
+        <DeploymentItem filename="3DPoints.dll" />
+      </DeploymentItems>
+      <Execution id="d4a7b2ec-0227-4cf6-875d-8db5db4dbf6d" />
+      <TestMethod codeBase="C:/Users/stanislav/documents/visual studio 2010/Projects/3DPoints/Test3DPoint/bin/Debug/Test3DPoint.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test3DPoint.GenericListTest, Test3DPoint, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ResizeDataTest" />
+    </UnitTest>
+    <UnitTest name="clearTest" storage="c:\users\stanislav\documents\visual studio 2010\projects\3dpoints\test3dpoint\bin\debug\test3dpoint.dll" id="563dd456-7288-0044-9a88-024abb87e044">
+      <Execution id="455954cb-7003-433f-b03c-1a8752c294e5" />
+      <TestMethod codeBase="C:/Users/stanislav/documents/visual studio 2010/Projects/3DPoints/Test3DPoint/bin/Debug/Test3DPoint.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test3DPoint.GenericListTest, Test3DPoint, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="clearTest" />
+    </UnitTest>
+    <UnitTest name="MaxTest" storage="c:\users\stanislav\documents\visual studio 2010\projects\3dpoints\test3dpoint\bin\debug\test3dpoint.dll" id="ab526c86-a4a9-f1b2-f6af-ddcdab2bbc08">
+      <Execution id="c5ca6408-1abb-44a5-81fc-95893e2d272d" />
+      <TestMethod codeBase="C:/Users/stanislav/documents/visual studio 2010/Projects/3DPoints/Test3DPoint/bin/Debug/Test3DPoint.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test3DPoint.GenericListTest, Test3DPoint, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MaxTest" />
+    </UnitTest>
+    <UnitTest name="get_DistanceTest" storage="c:\users\stanislav\documents\visual studio 2010\projects\3dpoints\test3dpoint\bin\debug\test3dpoint.dll" id="99ebe4d8-228a-bbb0-f206-3a451e16e384">
+      <Execution id="cd66276c-b9fc-4c27-8fe6-716dfca1f736" />
+      <TestMethod codeBase="C:/Users/stanislav/documents/visual studio 2010/Projects/3DPoints/Test3DPoint/bin/Debug/Test3DPoint.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test3DPoint.DistanseTest, Test3DPoint, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="get_DistanceTest" />
+    </UnitTest>
+    <UnitTest name="_3Dpoints_Points3DConstructorTest" storage="c:\users\stanislav\documents\visual studio 2010\projects\3dpoints\test3dpoint\bin\debug\test3dpoint.dll" id="7ae777b6-c9e3-0e42-9c58-7dd78a7aae68">
+      <Execution id="f30cb41d-431c-46c9-8272-413241e3e721" />
+      <TestMethod codeBase="C:/Users/stanislav/documents/visual studio 2010/Projects/3DPoints/Test3DPoint/bin/Debug/Test3DPoint.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test3DPoint._3Dpoints_Points3DTest, Test3DPoint, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="_3Dpoints_Points3DConstructorTest" />
+    </UnitTest>
+    <UnitTest name="findVaueTest" storage="c:\users\stanislav\documents\visual studio 2010\projects\3dpoints\test3dpoint\bin\debug\test3dpoint.dll" id="ef843e40-ec54-6e5a-bc39-3b3691e38751">
+      <Execution id="e0b30622-f0ee-457c-8f82-092ccf7b36a2" />
+      <TestMethod codeBase="C:/Users/stanislav/documents/visual studio 2010/Projects/3DPoints/Test3DPoint/bin/Debug/Test3DPoint.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test3DPoint.GenericListTest, Test3DPoint, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="findVaueTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="7ae777b6-c9e3-0e42-9c58-7dd78a7aae68" executionId="f30cb41d-431c-46c9-8272-413241e3e721" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="99ebe4d8-228a-bbb0-f206-3a451e16e384" executionId="cd66276c-b9fc-4c27-8fe6-716dfca1f736" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9464c1d5-bbb5-bb31-101f-488f49885b37" executionId="6a02bcd0-0874-476a-ac5a-2643bdf2cba0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ab526c86-a4a9-f1b2-f6af-ddcdab2bbc08" executionId="c5ca6408-1abb-44a5-81fc-95893e2d272d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1cc18a0e-b8a5-fb71-2dcb-8df8aca7589b" executionId="8f2072b3-b925-4cc5-8a4e-164105193a3b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="21ca8b4c-2ec4-2411-ac35-fe360abb293e" executionId="d4a7b2ec-0227-4cf6-875d-8db5db4dbf6d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="563dd456-7288-0044-9a88-024abb87e044" executionId="455954cb-7003-433f-b03c-1a8752c294e5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ef843e40-ec54-6e5a-bc39-3b3691e38751" executionId="e0b30622-f0ee-457c-8f82-092ccf7b36a2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f30cb41d-431c-46c9-8272-413241e3e721" testId="7ae777b6-c9e3-0e42-9c58-7dd78a7aae68" testName="_3Dpoints_Points3DConstructorTest" computerName="STANISLAV-PC" duration="00:00:00.0152618" startTime="2014-02-11T00:22:40.2934983+02:00" endTime="2014-02-11T00:22:40.9115337+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f30cb41d-431c-46c9-8272-413241e3e721">
+    </UnitTestResult>
+    <UnitTestResult executionId="cd66276c-b9fc-4c27-8fe6-716dfca1f736" testId="99ebe4d8-228a-bbb0-f206-3a451e16e384" testName="get_DistanceTest" computerName="STANISLAV-PC" duration="00:00:00.0015373" startTime="2014-02-11T00:22:40.9285347+02:00" endTime="2014-02-11T00:22:40.9345350+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cd66276c-b9fc-4c27-8fe6-716dfca1f736">
+    </UnitTestResult>
+    <UnitTestResult executionId="6a02bcd0-0874-476a-ac5a-2643bdf2cba0" testId="9464c1d5-bbb5-bb31-101f-488f49885b37" testName="addelementTest" computerName="STANISLAV-PC" duration="00:00:02.8971657" startTime="2014-02-11T00:22:40.9685369+02:00" endTime="2014-02-11T00:22:43.8657026+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6a02bcd0-0874-476a-ac5a-2643bdf2cba0">
+    </UnitTestResult>
+    <UnitTestResult executionId="c5ca6408-1abb-44a5-81fc-95893e2d272d" testId="ab526c86-a4a9-f1b2-f6af-ddcdab2bbc08" testName="MaxTest" computerName="STANISLAV-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c5ca6408-1abb-44a5-81fc-95893e2d272d">
+    </UnitTestResult>
+    <UnitTestResult executionId="8f2072b3-b925-4cc5-8a4e-164105193a3b" testId="1cc18a0e-b8a5-fb71-2dcb-8df8aca7589b" testName="MinTest" computerName="STANISLAV-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8f2072b3-b925-4cc5-8a4e-164105193a3b">
+    </UnitTestResult>
+    <UnitTestResult executionId="d4a7b2ec-0227-4cf6-875d-8db5db4dbf6d" testId="21ca8b4c-2ec4-2411-ac35-fe360abb293e" testName="ResizeDataTest" computerName="STANISLAV-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d4a7b2ec-0227-4cf6-875d-8db5db4dbf6d">
+    </UnitTestResult>
+    <UnitTestResult executionId="455954cb-7003-433f-b03c-1a8752c294e5" testId="563dd456-7288-0044-9a88-024abb87e044" testName="clearTest" computerName="STANISLAV-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="455954cb-7003-433f-b03c-1a8752c294e5">
+    </UnitTestResult>
+    <UnitTestResult executionId="e0b30622-f0ee-457c-8f82-092ccf7b36a2" testId="ef843e40-ec54-6e5a-bc39-3b3691e38751" testName="findVaueTest" computerName="STANISLAV-PC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e0b30622-f0ee-457c-8f82-092ccf7b36a2">
+    </UnitTestResult>
+  </Results>
+</TestRun>

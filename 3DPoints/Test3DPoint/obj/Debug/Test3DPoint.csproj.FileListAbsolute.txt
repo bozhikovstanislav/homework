@@ -1,0 +1,18 @@
+c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\Test3DPoint\bin\Debug\Test3DPoint.dll
+c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\Test3DPoint\bin\Debug\Test3DPoint.pdb
+c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\Test3DPoint\bin\Debug\3DPoints.dll
+c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\Test3DPoint\bin\Debug\3DPoints.pdb
+c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\Test3DPoint\obj\Debug\Test3DPoint.csprojResolveAssemblyReference.cache
+c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\Test3DPoint\obj\Debug\Test3DPoint.dll
+c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\Test3DPoint\obj\Debug\Test3DPoint.pdb
+C:\Users\stanislav\documents\visual studio 2010\Projects\3DPoints\Test3DPoint\bin\Debug\3DPoints_Accessor.dll
+C:\Users\stanislav\documents\visual studio 2010\Projects\3DPoints\Test3DPoint\bin\Debug\3DPoints_Accessor.pdb
+C:\Users\stanislav\Documents\GitHub\homework\3DPoints\Test3DPoint\bin\Debug\Test3DPoint.dll
+C:\Users\stanislav\Documents\GitHub\homework\3DPoints\Test3DPoint\bin\Debug\Test3DPoint.pdb
+C:\Users\stanislav\Documents\GitHub\homework\3DPoints\Test3DPoint\bin\Debug\3DPoints.dll
+C:\Users\stanislav\Documents\GitHub\homework\3DPoints\Test3DPoint\bin\Debug\3DPoints.pdb
+C:\Users\stanislav\Documents\GitHub\homework\3DPoints\Test3DPoint\bin\Debug\3DPoints_Accessor.dll
+C:\Users\stanislav\Documents\GitHub\homework\3DPoints\Test3DPoint\bin\Debug\3DPoints_Accessor.pdb
+C:\Users\stanislav\Documents\GitHub\homework\3DPoints\Test3DPoint\obj\Debug\Test3DPoint.csprojResolveAssemblyReference.cache
+C:\Users\stanislav\Documents\GitHub\homework\3DPoints\Test3DPoint\obj\Debug\Test3DPoint.dll
+C:\Users\stanislav\Documents\GitHub\homework\3DPoints\Test3DPoint\obj\Debug\Test3DPoint.pdb

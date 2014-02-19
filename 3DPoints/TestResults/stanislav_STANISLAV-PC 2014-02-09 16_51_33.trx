@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ff6ab38e-f0c3-4e60-8535-15cb3535b441" name="stanislav@STANISLAV-PC 2014-02-09 16:51:33" runUser="stanislav-PC\stanislav" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="788aed3f-e710-4dd8-a548-4fb74a9d647e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="stanislav_STANISLAV-PC 2014-02-09 16_51_33">
+      <DeploymentItem filename="c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\3DPoints\bin\Debug\3DPoints.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-02-09T16:51:33.8397039+02:00" queuing="2014-02-09T16:51:33.8777061+02:00" start="2014-02-09T16:51:33.8897068+02:00" finish="2014-02-09T16:51:34.1327207+02:00" />
+  <ResultSummary outcome="Inconclusive">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="1" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="get_DistanceTest" storage="c:\users\stanislav\documents\visual studio 2010\projects\3dpoints\test3dpoint\bin\debug\test3dpoint.dll" id="99ebe4d8-228a-bbb0-f206-3a451e16e384">
+      <Execution id="f4b4087c-8c8c-44c8-a239-74af211de1e5" />
+      <TestMethod codeBase="c:/users/stanislav/documents/visual studio 2010/Projects/3DPoints/Test3DPoint/bin/Debug/Test3DPoint.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test3DPoint.DistanseTest, Test3DPoint, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="get_DistanceTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="99ebe4d8-228a-bbb0-f206-3a451e16e384" executionId="f4b4087c-8c8c-44c8-a239-74af211de1e5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f4b4087c-8c8c-44c8-a239-74af211de1e5" testId="99ebe4d8-228a-bbb0-f206-3a451e16e384" testName="get_DistanceTest" computerName="STANISLAV-PC" duration="00:00:00.0250728" startTime="2014-02-09T16:51:33.9167083+02:00" endTime="2014-02-09T16:51:34.1117195+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f4b4087c-8c8c-44c8-a239-74af211de1e5">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. Verify the correctness of this test method.</Message>
+          <StackTrace>   at Test3DPoint.DistanseTest.get_DistanceTest() in c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\Test3DPoint\DistanseTest.cs:line 79
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

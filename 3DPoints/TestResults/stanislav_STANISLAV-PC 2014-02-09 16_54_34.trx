@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d9a52521-6d36-43c9-9c36-c8344c378e80" name="stanislav@STANISLAV-PC 2014-02-09 16:54:34" runUser="stanislav-PC\stanislav" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="788aed3f-e710-4dd8-a548-4fb74a9d647e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="stanislav_STANISLAV-PC 2014-02-09 16_54_34">
+      <DeploymentItem filename="c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\3DPoints\bin\Debug\3DPoints.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-02-09T16:54:34.2070204+02:00" queuing="2014-02-09T16:54:34.2410223+02:00" start="2014-02-09T16:54:34.2560232+02:00" finish="2014-02-09T16:54:34.5130379+02:00" />
+  <ResultSummary outcome="Inconclusive">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="1" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="_3Dpoints_Points3DConstructorTest" storage="c:\users\stanislav\documents\visual studio 2010\projects\3dpoints\test3dpoint\bin\debug\test3dpoint.dll" id="7ae777b6-c9e3-0e42-9c58-7dd78a7aae68">
+      <Execution id="f5cee14f-8c54-407f-9af3-3828f35a8121" />
+      <TestMethod codeBase="c:/users/stanislav/documents/visual studio 2010/Projects/3DPoints/Test3DPoint/bin/Debug/Test3DPoint.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test3DPoint._3Dpoints_Points3DTest, Test3DPoint, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="_3Dpoints_Points3DConstructorTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="7ae777b6-c9e3-0e42-9c58-7dd78a7aae68" executionId="f5cee14f-8c54-407f-9af3-3828f35a8121" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f5cee14f-8c54-407f-9af3-3828f35a8121" testId="7ae777b6-c9e3-0e42-9c58-7dd78a7aae68" testName="_3Dpoints_Points3DConstructorTest" computerName="STANISLAV-PC" duration="00:00:00.0220668" startTime="2014-02-09T16:54:34.2620235+02:00" endTime="2014-02-09T16:54:34.4740356+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f5cee14f-8c54-407f-9af3-3828f35a8121">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. </Message>
+          <StackTrace>   at Test3DPoint._3Dpoints_Points3DTest._3Dpoints_Points3DConstructorTest() in c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\Test3DPoint\_3Dpoints_Points3DTest.cs:line 77
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

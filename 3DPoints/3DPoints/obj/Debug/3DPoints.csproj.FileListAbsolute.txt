@@ -1,0 +1,4 @@
+c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\3DPoints\bin\Debug\3DPoints.dll
+c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\3DPoints\bin\Debug\3DPoints.pdb
+c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\3DPoints\obj\Debug\3DPoints.dll
+c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\3DPoints\obj\Debug\3DPoints.pdb

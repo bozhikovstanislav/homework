@@ -1,0 +1,7 @@
+c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\3Dpoints_Test\bin\Debug\3Dpoints_Test.exe
+c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\3Dpoints_Test\bin\Debug\3Dpoints_Test.pdb
+c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\3Dpoints_Test\bin\Debug\3DPoints.dll
+c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\3Dpoints_Test\bin\Debug\3DPoints.pdb
+c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\3Dpoints_Test\obj\x86\Debug\3Dpoints_Test.csprojResolveAssemblyReference.cache
+c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\3Dpoints_Test\obj\x86\Debug\3Dpoints_Test.exe
+c:\users\stanislav\documents\visual studio 2010\Projects\3DPoints\3Dpoints_Test\obj\x86\Debug\3Dpoints_Test.pdb
