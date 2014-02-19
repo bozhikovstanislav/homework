@@ -1,0 +1,4 @@
+c:\users\stanislav\documents\visual studio 2010\Projects\PrincipalOOP1\Human\bin\Debug\Human.dll
+c:\users\stanislav\documents\visual studio 2010\Projects\PrincipalOOP1\Human\bin\Debug\Human.pdb
+c:\users\stanislav\documents\visual studio 2010\Projects\PrincipalOOP1\Human\obj\Debug\Human.dll
+c:\users\stanislav\documents\visual studio 2010\Projects\PrincipalOOP1\Human\obj\Debug\Human.pdb

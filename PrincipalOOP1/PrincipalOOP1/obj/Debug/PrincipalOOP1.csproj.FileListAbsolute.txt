@@ -1,0 +1,4 @@
+c:\users\stanislav\documents\visual studio 2010\Projects\PrincipalOOP1\PrincipalOOP1\bin\Debug\PrincipalOOP1.dll
+c:\users\stanislav\documents\visual studio 2010\Projects\PrincipalOOP1\PrincipalOOP1\bin\Debug\PrincipalOOP1.pdb
+c:\users\stanislav\documents\visual studio 2010\Projects\PrincipalOOP1\PrincipalOOP1\obj\Debug\PrincipalOOP1.dll
+c:\users\stanislav\documents\visual studio 2010\Projects\PrincipalOOP1\PrincipalOOP1\obj\Debug\PrincipalOOP1.pdb

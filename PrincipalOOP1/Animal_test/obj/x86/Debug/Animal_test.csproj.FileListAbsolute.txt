@@ -1,0 +1,7 @@
+c:\users\stanislav\documents\visual studio 2010\Projects\PrincipalOOP1\Animal_test\bin\Debug\Animal_test.exe
+c:\users\stanislav\documents\visual studio 2010\Projects\PrincipalOOP1\Animal_test\bin\Debug\Animal_test.pdb
+c:\users\stanislav\documents\visual studio 2010\Projects\PrincipalOOP1\Animal_test\bin\Debug\Animals.dll
+c:\users\stanislav\documents\visual studio 2010\Projects\PrincipalOOP1\Animal_test\bin\Debug\Animals.pdb
+c:\users\stanislav\documents\visual studio 2010\Projects\PrincipalOOP1\Animal_test\obj\x86\Debug\Animal_test.csprojResolveAssemblyReference.cache
+c:\users\stanislav\documents\visual studio 2010\Projects\PrincipalOOP1\Animal_test\obj\x86\Debug\Animal_test.exe
+c:\users\stanislav\documents\visual studio 2010\Projects\PrincipalOOP1\Animal_test\obj\x86\Debug\Animal_test.pdb
