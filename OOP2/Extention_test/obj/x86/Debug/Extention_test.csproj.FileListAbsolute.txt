@@ -1,0 +1,9 @@
+C:\Users\stanislav\Documents\Visual Studio 2010\Projects\OOP2\Extention_test\bin\Debug\Extention_test.exe
+C:\Users\stanislav\Documents\Visual Studio 2010\Projects\OOP2\Extention_test\bin\Debug\Extention_test.pdb
+C:\Users\stanislav\Documents\Visual Studio 2010\Projects\OOP2\Extention_test\bin\Debug\OOP2.dll
+C:\Users\stanislav\Documents\Visual Studio 2010\Projects\OOP2\Extention_test\bin\Debug\OOP2.pdb
+C:\Users\stanislav\Documents\Visual Studio 2010\Projects\OOP2\Extention_test\obj\x86\Debug\Extention_test.csprojResolveAssemblyReference.cache
+C:\Users\stanislav\Documents\Visual Studio 2010\Projects\OOP2\Extention_test\obj\x86\Debug\Extention_test.exe
+C:\Users\stanislav\Documents\Visual Studio 2010\Projects\OOP2\Extention_test\obj\x86\Debug\Extention_test.pdb
+H:\OOP2\Extention_test\obj\x86\Debug\Extention_test.exe
+H:\OOP2\Extention_test\obj\x86\Debug\Extention_test.pdb

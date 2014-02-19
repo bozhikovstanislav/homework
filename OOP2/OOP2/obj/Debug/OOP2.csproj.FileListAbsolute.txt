@@ -1,0 +1,4 @@
+C:\Users\stanislav\Documents\Visual Studio 2010\Projects\OOP2\OOP2\bin\Debug\OOP2.dll
+C:\Users\stanislav\Documents\Visual Studio 2010\Projects\OOP2\OOP2\bin\Debug\OOP2.pdb
+C:\Users\stanislav\Documents\Visual Studio 2010\Projects\OOP2\OOP2\obj\Debug\OOP2.dll
+C:\Users\stanislav\Documents\Visual Studio 2010\Projects\OOP2\OOP2\obj\Debug\OOP2.pdb
